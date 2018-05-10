@@ -1,0 +1,31 @@
+body {
+
+	background-color: white;
+	color: white;
+	text-align: center;
+	background-image: url(header.jpg);
+	background-size: cover;
+	font-family: 'Oswald', sans-serif;
+	text-align: center;
+	}
+
+.col {
+
+	background-color: white 2px solid;
+	margin-top: 60px;
+	margin-bottom: 10px
+}
+
+.btn {
+
+	color: white;
+	cursor: pointer;
+	padding: 1rem 2rem
+	
+
+}
+
+h1{
+
+	font-size: 5rem
+}
